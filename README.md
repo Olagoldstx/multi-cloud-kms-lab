@@ -1,5 +1,3 @@
-# Create a clean README
-cat > README.md << 'EOF'
 <p align="center">
   <img src="docs/images/secure-the-cloud-banner.png" alt="Secure the Cloud - Multi-Cloud KMS Lab" width="800"/>
 </p>
@@ -37,9 +35,12 @@ This hands-on lab provides **enterprise-level training** in Multi-Cloud Key Mana
 git clone https://github.com/Olagoldstx/multi-cloud-kms-lab.git
 cd multi-cloud-kms-lab
 
-# Set up Python environment
+# Set up Python environment (use kms-env specifically)
 python3 -m venv kms-env
 source kms-env/bin/activate
+
+# Install dependencies
 pip install -r requirements.txt
 
-
+# Install HashiCorp Vault
+# Download from: https://developer.hashicorp.com/vault/downloads
