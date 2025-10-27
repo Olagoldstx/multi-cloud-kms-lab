@@ -1,8 +1,14 @@
+<h1 align="center">
+🔐 Multi-Cloud Key Management System (KMS) Lab
+</h1>
+
 <p align="center">
-  <img src="docs/images/secure-the-cloud-banner.jpg" alt="Secure the Cloud - Multi-Cloud KMS Lab" width="800"/>
+  <strong>Enterprise-grade Key Management across HashiCorp Vault, AWS KMS, and Google Cloud KMS</strong>
 </p>
 
-<h1 align="center">
+<p align="center">
+  <em>Secure the Cloud Banner - Upload docs/images/secure-the-cloud-banner.jpg</em>
+</p>
 🔐 Multi-Cloud Key Management System (KMS) Lab
 </h1>
 
