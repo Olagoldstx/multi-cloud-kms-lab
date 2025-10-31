@@ -1,3 +1,18 @@
+<!-- BADGES:START -->
+
+<div align="left">
+[![](https://img.shields.io/github/license/Olagoldstx/multi-cloud-kms-lab?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/multi-cloud-kms-lab)
+[![](https://img.shields.io/github/stars/Olagoldstx/multi-cloud-kms-lab?style=for-the-badge&labelColor=0f172a&logo=github)](https://github.com/Olagoldstx/multi-cloud-kms-lab)
+[![](https://img.shields.io/github/last-commit/Olagoldstx/multi-cloud-kms-lab?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/multi-cloud-kms-lab)
+[![](https://img.shields.io/github/issues/Olagoldstx/multi-cloud-kms-lab?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/multi-cloud-kms-lab)
+[![](https://img.shields.io/github/issues-pr/Olagoldstx/multi-cloud-kms-lab?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/multi-cloud-kms-lab)
+[![](https://img.shields.io/github/repo-size/Olagoldstx/multi-cloud-kms-lab?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/multi-cloud-kms-lab)
+[![](https://img.shields.io/github/languages/top/Olagoldstx/multi-cloud-kms-lab?style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/multi-cloud-kms-lab)
+[![](https://img.shields.io/github/actions/workflow/status/Olagoldstx/multi-cloud-kms-lab/ci.yml?branch=main&style=for-the-badge&labelColor=0f172a)](https://github.com/Olagoldstx/multi-cloud-kms-lab)
+</div>
+
+<!-- BADGES:END -->
+
 <p align="center">
   <img src="docs/images/secure-the-cloud-banner.png" alt="Secure the Cloud - Multi-Cloud KMS Lab" width="800"/>
 </p>
